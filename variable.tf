@@ -50,7 +50,7 @@ variable "app_insights_app_id" {
 
 
 
-////testttss
+
   type        = string
 }
 
