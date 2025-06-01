@@ -47,6 +47,10 @@ variable "app_insights_key" {
 
 variable "app_insights_app_id" {
   description = "Application Insights App ID"
+
+
+
+////testttss
   type        = string
 }
 
